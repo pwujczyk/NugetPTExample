@@ -1,0 +1,6 @@
+D:\GitHub\NugetPTExample\NugetPTSingleClass\bin\Debug\NugetPTSingleClass.dll
+D:\GitHub\NugetPTExample\NugetPTSingleClass\bin\Debug\NugetPTSingleClass.pdb
+D:\GitHub\NugetPTExample\NugetPTSingleClass\obj\Debug\NugetPTSingleClass.csprojResolveAssemblyReference.cache
+D:\GitHub\NugetPTExample\NugetPTSingleClass\obj\Debug\NugetPTSingleClass.csproj.CoreCompileInputs.cache
+D:\GitHub\NugetPTExample\NugetPTSingleClass\obj\Debug\NugetPTSingleClass.dll
+D:\GitHub\NugetPTExample\NugetPTSingleClass\obj\Debug\NugetPTSingleClass.pdb

@@ -1,0 +1,8 @@
+D:\GitHub\NugetPTExample\NugetPTWithReference\bin\Debug\NugetPTWithReference.dll
+D:\GitHub\NugetPTExample\NugetPTWithReference\bin\Debug\NugetPTWithReference.pdb
+D:\GitHub\NugetPTExample\NugetPTWithReference\bin\Debug\NugetPTReferecedClass.dll
+D:\GitHub\NugetPTExample\NugetPTWithReference\bin\Debug\NugetPTReferecedClass.pdb
+D:\GitHub\NugetPTExample\NugetPTWithReference\obj\Debug\NugetPTReference.csprojResolveAssemblyReference.cache
+D:\GitHub\NugetPTExample\NugetPTWithReference\obj\Debug\NugetPTReference.csproj.CoreCompileInputs.cache
+D:\GitHub\NugetPTExample\NugetPTWithReference\obj\Debug\NugetPTWithReference.dll
+D:\GitHub\NugetPTExample\NugetPTWithReference\obj\Debug\NugetPTWithReference.pdb
