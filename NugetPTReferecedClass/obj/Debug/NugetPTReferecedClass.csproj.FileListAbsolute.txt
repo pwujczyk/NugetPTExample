@@ -1,6 +1,0 @@
-D:\GitHub\NugetPTExample\NugetPTReferecedClass\bin\Debug\NugetPTReferecedClass.dll
-D:\GitHub\NugetPTExample\NugetPTReferecedClass\bin\Debug\NugetPTReferecedClass.pdb
-D:\GitHub\NugetPTExample\NugetPTReferecedClass\obj\Debug\NugetPTReferecedClass.csprojResolveAssemblyReference.cache
-D:\GitHub\NugetPTExample\NugetPTReferecedClass\obj\Debug\NugetPTReferecedClass.csproj.CoreCompileInputs.cache
-D:\GitHub\NugetPTExample\NugetPTReferecedClass\obj\Debug\NugetPTReferecedClass.dll
-D:\GitHub\NugetPTExample\NugetPTReferecedClass\obj\Debug\NugetPTReferecedClass.pdb
